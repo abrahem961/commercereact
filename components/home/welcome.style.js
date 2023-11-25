@@ -10,7 +10,7 @@ fontFamily:"bold",
 fontSize:SIZES.xxLarge -6,
 marginTop:top,
 color:color,
-margenHorizontal:SIZES.small,
+//margenHorizontal:SIZES.small,
 
     }),
     searchContainer:{
